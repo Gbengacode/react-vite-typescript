@@ -1,0 +1,7 @@
+.eslintrc.cjs
+ios/
+android/
+*.config.js
+node_modules/
+dist/
+env.d.ts
